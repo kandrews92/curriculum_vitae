@@ -223,6 +223,13 @@
     \TeX}}
 \providecommand\Matlab{\textsc{Matlab}}
 
+
+\newcommand\textline[4][t]{%
+  \par\smallskip\noindent\parbox[#1]{.333\textwidth}{\raggedright\texttt{+}#2}%
+  \parbox[#1]{.333\textwidth}{\centering#3}%
+  \parbox[#1]{.333\textwidth}{\raggedleft\texttt{#4}}\par\smallskip%
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%% End Helper Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -262,13 +269,12 @@ Two-dimensional materials, nanotechnology, transition metal dichalcogenides, fie
 \section{Education}
 
 \href{http://www.wayne.edu}{\textbf{Wayne State University}},
-Detroit, MI
+Detroit, MI \hfill \emph{expected} 2018
 \begin{outerlist}
 
 \item[] Ph.D.,
         \href{http://physics.clas.wayne.edu/}
-             {Physics},
-             \emph{Expected:} Fall 2018, GPA: 3.50/4.00
+             {Physics}
         \begin{innerlist}
         \item Thesis Topic: ``Intrinsic Channel Properties, Scattering Mechanisms, and Quantum Transport Properties in Transition Metal Dichalcogenides"
         \item Advisor:
@@ -278,7 +284,7 @@ Detroit, MI
 \end{outerlist}
 \vspace{.1in} 
 
-\href{http://www.wayne.edu}{\textbf{Wayne State University}}, Detroit, MI
+\href{http://www.wayne.edu}{\textbf{Wayne State University}}, Detroit, MI \hfill 2016
 \begin{outerlist}
 \item[] M.S.,
         \href{http://physics.clas.wayne.edu/}
@@ -288,16 +294,16 @@ Detroit, MI
 
 \vspace{.1in}
 \href{http://www.msu.edu}{\textbf{Michigan State University}},
-East Lansing, MI
+East Lansing, MI \hfill 2014
 \begin{outerlist}
 \item[] B.S.,
         \href{http://www.pa.msu.edu/}
-             {Physics and Astrophysics (Double Major)}, May 2014
+             {Physics and Astrophysics (Double Major)}
 
 \end{outerlist}
 
 \section{Research Experience}
-\textbf{Graduate Research Assistant} \hfill {May 2015--Present}
+\textbf{Graduate Research Assistant} \hfill {2015--Present}
 \begin{innerlist}
     
     \item[] \href{http://www.physics.wayne.edu/~zxzhou/}{Nano Fabrication and Electron Transport Laboratory},\\
@@ -333,7 +339,7 @@ East Lansing, MI
 \end{innerlist}
 
 \section{Industry Experience}
-\textbf{Summer Intern} \hfill {Jun 2013--Aug2013}
+\textbf{Summer Intern} \hfill {Jun 2013--Aug 2013}
 \begin{innerlist}
     \item[] \href{https://www.jenoptik.com/us_home}{Jenoptik Laser Technologies}, Brighton, MI USA\\
     Contributed in development of user interface for laser welding\\ machine that allows user manipulation of robotic end-arm tooling.\\ Using microcontroller program via interfaced electronic devices and\\ several developed algorithms machine was able to analyze\\
