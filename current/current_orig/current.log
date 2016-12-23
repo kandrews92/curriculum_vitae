@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  23 DEC 2016 10:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  23 DEC 2016 10:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -337,41 +337,41 @@ Overfull \hbox (18.0pt too wide) in paragraph at lines 250--258
  []
 
 
-Overfull \hbox (2.63876pt too wide) in paragraph at lines 267--268
+Overfull \hbox (2.63876pt too wide) in paragraph at lines 273--274
 []\OT1/cmr/m/n/10 Two-dimensional ma-te-ri-als, nan-otech-nol-ogy, tran-si-tion
  metal dichalco-genides, field-effect
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 274.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 280.
 
 (c:/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 274.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 280.
 
-Overfull \hbox (7.99979pt too wide) in paragraph at lines 279--280
+Overfull \hbox (7.99979pt too wide) in paragraph at lines 285--286
 []\OT1/cmr/m/n/10 Thesis Topic: ``In-trin-sic Chan-nel Prop-er-ties, Scat-ter-i
 ng Mech-a-nisms, and Quan-tum
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--313
+Underfull \hbox (badness 10000) in paragraph at lines 321--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--321
+Underfull \hbox (badness 10000) in paragraph at lines 329--333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--330
+Underfull \hbox (badness 10000) in paragraph at lines 338--342
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--339
+Underfull \hbox (badness 10000) in paragraph at lines 347--351
 
  []
 
@@ -381,35 +381,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 335--339
 
 AED: lastpage setting LastPage
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 454.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 454.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 501.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 501.
  (./current.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 454.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 454.
-Package rerunfilecheck Info: File `current.out' has not changed.
-(rerunfilecheck)             Checksum: 1DBA1E71800D5F5D3E3FF7400ED224D5;543.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 454.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 501.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 501.
+
+
+Package rerunfilecheck Warning: File `current.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `current.out':
+(rerunfilecheck)             Before: BE73ABD4A78E2D0C2A4AD8C2F1C76BEA;583
+(rerunfilecheck)             After:  1DBA1E71800D5F5D3E3FF7400ED224D5;543.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 501.
  ) 
 Here is how much of TeX's memory you used:
- 5884 strings out of 493109
- 87322 string characters out of 6138587
- 185458 words of memory out of 5000000
- 9310 multiletter control sequences out of 15000+600000
+ 5888 strings out of 493109
+ 87394 string characters out of 6138587
+ 185514 words of memory out of 5000000
+ 9312 multiletter control sequences out of 15000+600000
  5368 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,14n,43p,459b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
-10.pfb>
-Output written on current.pdf (2 pages, 107039 bytes).
+pdfTeX warning (dest): name{section*.12} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
+, replaced by a fixed one
+
+<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on current.pdf (2 pages, 107079 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
