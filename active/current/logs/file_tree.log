@@ -1,0 +1,31 @@
+.
+|-- archives
+|   |-- apr2016
+|   |   |-- kraig-apr2016.pdf
+|   |   `-- kraig-apr2016.tex
+|   |-- jan2016
+|   |   |-- kraig-jan2016.pdf
+|   |   `-- kraig-jan2016.tex
+|   |-- march2017
+|   |   |-- march17.pdf
+|   |   |-- march17.tex
+|   |   `-- mk
+|   `-- nov2016
+|       |-- kraig.pdf
+|       `-- kraig.tex
+|-- clean
+|-- current.aux
+|-- current.log
+|-- current.out
+|-- current.pdf
+|-- current.synctex.gz
+|-- current.tex
+|-- logs
+|   `-- file_tree.log
+|-- mk
+|-- refs
+|   `-- kraig_refs.bib
+|-- togithub
+`-- veryclean
+
+7 directories, 21 files
